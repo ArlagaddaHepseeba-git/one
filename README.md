@@ -13,4 +13,16 @@ Jenkins Pipeline job configuration where the pipeline script pulls source code f
 <img width="1920" height="1080" alt="GitHub Repository Checkout" src="https://github.com/user-attachments/assets/336842e6-2169-4013-b1e4-55c9abb9b557" />
 Jenkins pipeline stage logs confirming a successful clone and checkout of source code from a GitHub repository during the CI build process.
 
+<img width="1920" height="1080" alt="Maven Build" src="https://github.com/user-attachments/assets/97fe5f66-c5dd-4bf9-89ee-4890a98707bd" />
+where source code is cloned from GitHub and built using Maven (mvn clean package) as part of the CI process.
+
+<img width="1920" height="1080" alt="Console Output – Maven Build Execution" src="https://github.com/user-attachments/assets/117545f5-4609-47ea-a59b-3d4289da6ae0" />
+This displays the Jenkins console output showing a successful Maven build (mvn clean package), where dependencies are downloaded and a WAR file is generated as part of the CI pipeline.
+
+<img width="1920" height="1080" alt="Build, Nexus Upload   Tomcat Deployment" src="https://github.com/user-attachments/assets/545e9eb6-f502-4ced-8ee7-2cad001685ff" />
+enkins declarative pipeline script that builds a Java application using Maven, uploads the generated WAR file to Nexus Repository Manager, and deploys it to an Apache Tomcat server automatically.
+
+
+
+
 
