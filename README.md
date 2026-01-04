@@ -1,10 +1,14 @@
 
-Project:End-to-End CI/CD Pipeline for Java Web Application using Jenkins, GitHub, Nexus, and Tomcat on AWS EC2
+Project: End-to-End CI/CD Pipeline for Java Web Application using Jenkins, GitHub, Nexus, and Tomcat on AWS EC2
 
 -->Built an automated CI/CD pipeline using Jenkins Pipeline on AWS EC2
+
 -->Automated Java application build using Maven with SonarQube quality checks
+
 -->Stored build artifacts in Nexus Repository Manager
+
 -->Deployed WAR files automatically to Apache Tomcat
+
 -->Reduced manual work and improved build reliability
 
 
